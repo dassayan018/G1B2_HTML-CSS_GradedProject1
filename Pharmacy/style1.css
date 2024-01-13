@@ -1,0 +1,23 @@
+
+  
+ 
+.split  {
+    display: flex;
+    width: 50%;
+    height: 100%;
+   
+}
+
+.left {
+    width: 60%; 
+    margin: 10px;
+}
+
+.right{
+    position: fixed;
+    top: 0;
+    right: 0;
+   
+    width: 40%; 
+}
+  
